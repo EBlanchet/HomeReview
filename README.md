@@ -1,4 +1,7 @@
 # HomeReview
+Participation à Hacklitycs 2024, Georgia Tech, Atlanta, USA
+Hackaton renommé de Data Sciences et d'IA avec plus de 1100 participants et 300 projets.
+
 Hacklytics 2024 Project <p>
 
 We first chose to work on the NSA challenge but what we are delivering today is a mix between the Assurant challenge and the Healthcare track. <p>
